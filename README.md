@@ -8,6 +8,9 @@ This repository contains a dataset focusing on wildfires in Greece. The data has
 
 The dataset is in JSON format and consists of 26,605 social media posts collected from the Twitter platform. These posts were gathered based on keywords related to fire danger and high temperatures. The dataset covers the period from May 1 to August 31 in the years 2019, 2020, 2021, and 2022. The primary geographical focus is Greece, including Athens and surrounding areas.
 
+
+### Fields
+
 Each entry is a dictionary with the following keys:
 
 - **is_retweet**: Indicates whether the post is a retweet.
@@ -20,6 +23,8 @@ Each entry is a dictionary with the following keys:
 - **sentiment**: The sentiment of the post.
 - **sentiment_score**: A numerical score representing the sentiment.
 - **location**: The geographical location associated with the post.
+
+## Keywords Used for Data Collection
 
 <table class="tg" style="undefined;table-layout: fixed; width: 931px">
 <colgroup>
@@ -52,3 +57,17 @@ Each entry is a dictionary with the following keys:
   </tr>
 </tbody>
 </table>
+
+## Timeframe
+
+The dataset spans four years, focusing on the wildfire seasons from May 1 to August 31 in 2019, 2020, 2021, and 2022.
+
+## Usage
+
+To work with this dataset, you can clone this GitHub repository to your local machine:
+
+```bash
+git clone https://github.com/AlexEco1/Wildfires_in_Greece.git
+```
+## Acknowledgements
+This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreement H2020-101004152 CALLISTO.
