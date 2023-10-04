@@ -13,15 +13,21 @@ The dataset is in JSON format and consists of 26,605 social media posts collecte
 
 Each entry is a dictionary with the following keys:
 
-- **is_retweet**: Indicates whether the post is a retweet.
+- **is_retweet**: This field indicates whether the social media post is a retweet or an original tweet. A retweet is essentially re-sharing or re-posting another user's tweet.
 - **timestamp**: The time the post was made.
 - **postid**: The unique identifier for the post.
 - **is_quote**: Indicates whether the post is a quote.
 - **lang**: The language in which the post is written.
 - **match**: The keywords that led to the post being included in the dataset, typically related to fire danger and high temperatures.
-- **concepts**: Any concepts mentioned in the post.
-- **sentiment**: The sentiment of the post.
-- **sentiment_score**: A numerical score representing the sentiment.
+- **concepts**: This field contains a list of keywords derived from images or videos (thumbnails) included in the tweet. Keywords can represent various elements such as "Outdoor," "Cityscape," "City," "Vegetation," or "Landscape." If this field is empty, it means the tweet did not contain any images or videos.
+- **sentiment**: This field captures the emotional tone behind the tweet based on sentiment analysis. It can have one of three possible values:
+  - `neg`: Indicates a negative sentiment.
+  - `neu`: Indicates a neutral sentiment.
+  - `pos`: Indicates a positive sentiment.
+- **sentiment_score**: This field provides a numeric value that quantifies the sentiment expressed in the tweet. It assigns numerical values to the sentiment categories:
+  - `Positive`: Numeric value indicating the degree of positive sentiment.
+  - `Negative`: Numeric value indicating the degree of negative sentiment.
+  - `Neutral`: Numeric value indicating the degree of neutral sentiment.
 - **location**: The geographical location associated with the post.
 
 ## Keywords Used for Data Collection
