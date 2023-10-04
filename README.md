@@ -21,10 +21,45 @@ Each entry is a dictionary with the following keys:
 - **sentiment_score**: A numerical score representing the sentiment.
 - **location**: The geographical location associated with the post.
 
-| Date Range            | Language | Keywords                                                                                                                                                                         |
-|-----------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 May – 31 August 2019 | Greek    | κίνδυνος πυρκαγιάς, κίνδυνος πυρκαγιών, υψηλές θερμοκρασίες πυρκαγιάς, υψηλή θερμοκρασία πυρκαγιάς, καύσωνας πυρκαγιών, καύσωνας πυρκαγιάς, ισχυρός άνεμος πυρκαγιάς, ισχυρός άνεμος πυρκαγιάς, ισχυροί άνεμοι πυρκαγιάς, σχυρών ανέμων πυρκαγιάς, καύσωνας πυρκαγιών |
-| 1 May – 31 August 2020 | Greek    | καίγεται φωτιά, καίγεται καπνός, καίγεται πυρκαγιά, καίγονται φωτιά, καίγονται καπνός, καίγονται πυρκαγιά, μυρίζει καμένο, μυρίζει καμένο φωτιά, μυρίζει καπνός, μυρίζει καμμένο, μυρίζει καμμένο φωτιά |
-| 1 May – 31 August 2021 | Greek    |                                                                                                                                      |
-| 1 May – 31 August 2022 | Greek    |                                                                                                                                      |
-|                       | English  | Extreme heat fire, heatwave fire, high temperatures fire, drought fire, high winds fire, strong winds fire, risk fire, wildfire                                                    |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#aaa;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f38630;border-bottom-width:1px;border-color:#aaa;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 931px">
+<colgroup>
+<col style="width: 187.2px">
+<col style="width: 105.2px">
+<col style="width: 375.2px">
+<col style="width: 263.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-baqh">Timespan</th>
+    <th class="tg-baqh">Language</th>
+    <th class="tg-baqh">Keywords</th>
+    <th class="tg-baqh">Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">1 May – 31 August 2019<br><br><span style="font-weight:400;font-style:normal;text-decoration:none">1 May – 31 August 2020</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">1 May – 31 August 2021</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none">1 May – 31 August 2022</span><br></td>
+    <td class="tg-c3ow">Greek</td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">κίνδυνος πυρκαγιάς, κίνδυνος πυρκαγιών, υψηλές θερμοκρασίες πυρκαγιάς, υψηλή θερμοκρασία πυρκαγιάς, καυσωνας πυρκαγιών, καυσωνας πυρκαγιάς, ισχυρός άνεμος πυρκαγιάς, ισχυρός άνεμος πυρκαγιάς, ισχυροί άνεμοι πυρκαγιάς, σχυρών ανέμων πυρκαγιάς, καύσωνας πυρκαγιών, </span>καίγεται φωτιά,καίγεται καπνός,καίγεται πυρκαγιά,καίγονται φωτιά,καίγονται καπνός,καίγονται πυρκαγιά, μυρίζει καμένο, μυρίζει καμένο φωτιά , μυρίζει καπνός, μυρίζει καμμένο, μυρίζει καμμένο φωτιά</td>
+    <td class="tg-c3ow"><span style="font-weight:400;font-style:normal;text-decoration:none">Αθήνα, Αττική,Εύβοια, Στερεά Ελλάδα,  Ελλάδα</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">English</span></td>
+    <td class="tg-c3ow" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Extreme heat fire, heatwave fire, high temperatures fire, drought fire, high winds fire, strong winds fire, risk fire, wildfire</span></td>
+    <td class="tg-c3ow" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Athens, Attica,Euboea, Evia, Sterea Ellada, Greece</span></td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
