@@ -76,7 +76,7 @@ To work with this dataset, you can clone this GitHub repository to your local ma
 git clone https://github.com/AlexEco1/Wildfires_in_Greece.git
 ```
 ## Acknowledgements
-This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreement H2020-101004152 CALLISTO.
+- This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreements H2020-101004152 CALLISTO and H2020-101004188 DeepCube.
 
 ## Disclaimer
 - **Post IDs Only**: Please note that this dataset contains only the Post IDs and not the full text of the tweets. To access the full text, you'll need to hydrate the IDs using Twitter's API in accordance with their terms of service.
