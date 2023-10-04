@@ -21,17 +21,6 @@ Each entry is a dictionary with the following keys:
 - **sentiment_score**: A numerical score representing the sentiment.
 - **location**: The geographical location associated with the post.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-bottom-width:1px;border-color:#aaa;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
-  word-break:normal;}
-.tg th{background-color:#f38630;border-bottom-width:1px;border-color:#aaa;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#fff;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 931px">
 <colgroup>
 <col style="width: 187.2px">
