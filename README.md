@@ -75,6 +75,11 @@ To work with this dataset, you can clone this GitHub repository to your local ma
 ```bash
 git clone https://github.com/AlexEco1/Wildfires_in_Greece.git
 ```
+
+## Google Colab
+
+To run the jupyter-notebook in google colab, visit this [link](https://colab.research.google.com/github/AlexEco1/Wildfires_in_Greece/blob/master/Hackathon_Tutorial_GreekFires.ipynb)
+
 ## Acknowledgements
 - This work was supported by the EU’s Horizon 2020 research and innovation programme under grant agreements H2020-101004152 CALLISTO and H2020-101004188 DeepCube.
 
